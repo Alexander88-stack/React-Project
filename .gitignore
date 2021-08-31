@@ -1,5 +1,10 @@
+.gitignore
 .expo
 .vscode
 .expo-shared
 node_modules
 .watchmanconfig
+package.json
+package-lock.json
+babel.config.js
+assets
