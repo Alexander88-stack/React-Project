@@ -1,1 +1,0 @@
-Doing my best with React Native (Ios - Android).
